@@ -43,6 +43,7 @@ Best Employee (faculty) (October, 2019)- Woxsen University, Hyderabad
 ## Projects
 
 2016-Traffic management strategies (traffic re-routing, identifying strategic parking facilities, etc.) to ease congestion in Mhow Madhya Pradesh
+
 2021-Swachh Survekshan documentation towards increasing the SBM ranking of the city of Udupi 
 
 
