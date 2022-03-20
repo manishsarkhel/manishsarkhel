@@ -31,7 +31,14 @@ One of the key features which promote growth of industrial clusters is collabora
  Manish Sarkhel & Nagarajan Krishnamurthy, Mutual Monitoring and Cooperation in Networks, International conference on Network Science in Economics and Finance, 19-21 December, 2018, IIM Ahmedabad
  Manish Sarkhel & Sonakshi Gupta, A New Centrality Measure for Collaborative Groups, PAN IIT International Management Conference, Nov 30-Dec 02, 2018, IIT Roorkee
 
+## Memberships
 
+ Reviewer for: Vision: The Journal of Business Perspective and VILAKSHAN - XIMB Journal of Management
+ Society Membership: INFORMS and Associate Member, Institution of Engineers India
+
+## Awards
+ Best paper Award (Emerald Publishing & IIT Roorkee)- Manish Sarkhel & Sonakshi Gupta, A New Centrality Measure for Collaborative Groups, PAN IIT International Management Conference, Nov 30 - Dec 02, 2018 at IIT Roorkee
+ Best Employee (faculty) (October, 2019)- Woxsen University, Hyderabad
 
 ## About Me
 
