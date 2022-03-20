@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Interests
 
-You can use the [editor on GitHub](https://github.com/manishsarkhel/manishsarkhel/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My research interests lie at the interface of Supply Chain and Networks. At a broad level, I am working on certain theoretical aspects of the application of game theory to supply chains and networks. More specifically, on studying the strategic interactions among agents embedded in networks. The research questions in this regard involve studying the emergence of specific networks structures among agents given that the agents make rational decisions. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My teaching interests lie in the domain of Operations Management and Analytics. I teach courses such as operations management, supply chain management, service operations management, modelling with spreadsheets, Python programming, data analytics using Python & R, financial analytics using Python, Excel and visual analytics using PowerBI and Tableau.  
+
 
 ### Markdown
 
