@@ -19,7 +19,7 @@ Chandra, S., Sarkhel, M., & Vatsa, A. K. (2021). Capacitated facility location{a
 ## Conferences
 Manish Sarkhel & Nagarajan Krishnamurthy, Stability in Core-Periphery Production Networks, 7th International Conference on Complex Networks and Their Applications, December 11-13, 2018, Cambridge University, United Kingdom
 
-Saurabh Chandra & Manish Sarkhel, Common euent treatment plants locations allocation modelling in an industrial cluster, EURO 2018 Conference, July 8-11, 2018, Valencia, Spain
+Saurabh Chandra & Manish Sarkhel, Common effluent treatment plants locations allocation modelling in an industrial cluster, EURO 2018 Conference, July 8-11, 2018, Valencia, Spain
 
 Nagarajan Krishnamurthy & Manish Sarkhel, Stable networks in peer-to-peer based sharing economies, 12th European Meeting on Game Theory (SING 12), July 11-13, 2016, Odense, Denmark
 
